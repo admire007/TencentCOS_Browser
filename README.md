@@ -6,7 +6,9 @@ QT5.15.2
 
 # 项目演示gif
 ## 登录界面演示
+
 ![image](https://github.com/admire007/TencentCOS_Browser/blob/main/login.gif)   
 
 ## 存储桶主界面演示
+
 ![image](https://github.com/admire007/TencentCOS_Browser/blob/main/Stock.gif)   
