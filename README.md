@@ -37,10 +37,10 @@
 
 ## 项目演示
 ### 登录界面演示
-![登录界面演示](https://img.youtube.com/vi/VIDEO_ID/0.jpg)
+![登录界面演示](https://github.com/admire007/TencentCOS_Browser/blob/main/login.gif      )
 
 ### 存储桶主界面演示
-![存储桶主界面演示](https://img.youtube.com/vi/VIDEO_ID/0.jpg)
+![存储桶主界面演示](https://github.com/admire007/TencentCOS_Browser/blob/main/Stock.gif )
 
 ## 技术架构
 项目采用分层架构设计，结合 MVC 模式和插件化思想：
