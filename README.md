@@ -1,4 +1,10 @@
 # TencentCOS_Browser 
+![null](https://img.shields.io/badge/license-MIT-green)
+![null](https://img.shields.io/badge/language-C%2B%2B-blue)
+![null](https://img.shields.io/badge/Qt-5.15%2B-41CD52)
+![null](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20MacOS-lightgrey)
+![null](https://img.shields.io/badge/version-1.0.0-orange)
+![null](https://img.shields.io/badge/build-passing-brightgreen)
 
 ## 📑 目录
 - [📋 项目简介](#项目简介)
